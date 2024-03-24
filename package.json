@@ -9,8 +9,11 @@
         "axios": "^1.6.4",
         "laravel-vite-plugin": "^1.0",
         "vite": "^5.0"
+<<<<<<< HEAD
     },
     "dependencies": {
         "vue": "^3.4.21"
+=======
+>>>>>>> origin/main
     }
 }
